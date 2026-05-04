@@ -71,8 +71,8 @@ mvn clean test
 
 # 👨‍💻 Author
 
-**Student:** Ulises Lara  
-**Program:** EPAM Java Automation Specialization
-**Project:** [Module 10] API Automatione 
-**Date:** May 2026
+- **Student:** Ulises Lara  
+- **Program:** EPAM Java Automation Specialization
+- **Project:** [Module 10] API Automatione 
+- **Date:** May 2026
 
